@@ -55,7 +55,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch==20181111
 distlib==0.3.0
-distributed==2.14.0
+distributed==2021.10.0
 docutils==0.16
 efficient-apriori==1.0.0
 entrypoints==0.3
